@@ -1,0 +1,13 @@
+# рабочие и приватные материалы не публикуем
+информация о клиенте
+master.md
+.claude/
+data/
+snapshots/
+.playwright-mcp/
+.seo-agent.env
+*.bak
+.DS_Store
+semantika/chernovaya-pinskdrev.csv
+semantika/wk_results.json
+ПОЛНЫЙ-АУДИТ-*.html
